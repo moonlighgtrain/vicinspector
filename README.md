@@ -10,7 +10,7 @@ A script to bulk copy inspectors of the VIC software
 
 The gif shows how to use the vicinspector to bulk copy inspectors by command line.
 
-![image](vicinspector-demo.gif)
+![image](http://image.ruituo.work/vicinspector-demo.gif)
 
 # Steps
 
