@@ -1,4 +1,4 @@
-![image](ruituo_logo.png)
+![image](http://img1.bj.wezhan.cn/content/sitefiles/2026736/images/9955151_ruituotech_376069de-c817-4c30-b8d0-2a433f6b58aa_resize_picture.jpeg)
 
 # vicinspector
 
